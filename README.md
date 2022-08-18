@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GZILLIG
-- 👀 I’m interested in Music(80's), Motorcycles, Cats, and turning the world more practial!
-- 🌱 I’m currently learning Python and Java.
-- 💞️ I’m looking to collaborate in back-end and data science projects.
+- 👀 I’m interested in Music(80's) and Boardgames
+- 🌱 I’m currently learning Front-End basics (HTML, CSS, JS)
+- 💞️ I’m looking to collaborate in front-end projects to add up some experience!
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/gabriel-bassi-zillig/
 
 <!---
