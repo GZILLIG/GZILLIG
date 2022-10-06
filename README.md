@@ -70,7 +70,7 @@
 <p>Esse bootcamp cobriu conceitos teóricos de bancos de dados relacionais, com 2 desafios voltados a modelagem de dados e 2 para criação, carga e consulta de banco de dados MySQL.</p>
 <p>Além disso, o bootcamp passou brevemente sobre os principais conceitos de banco de dados NoSQL (MongoDB).
   
-<details><summary>CLIQUE AQUI PARA MAIS DETALHES DESSE CURSO</summary>
+<details><summary>CLIQUE AQUI PARA MAIS DETALHES DESSE BOOTCAMP</summary>
 <h2>Conteúdo</h2>
 
 * [Desafio - Refinamento DB para E-commerce](https://github.com/GZILLIG/Cursos-DIO/blob/main/Bootcamp%20Database%20Experience/Desafio%20Refinamento%20E-Commerce)
