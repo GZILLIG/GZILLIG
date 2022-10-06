@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel!
-- 🌱 I’m currently studying Data Analysis, focused in Business Inteligence, learning ETL proccess, SQL, MDX and Power BI.
+- 🌱 I’m currently studying Data Analysis, focused in Business Intelligence, learning ETL proccess, SQL, MDX and Power BI.
 - 💞️ I’m looking for data-sets to practice my BI skills!
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/gabriel-bassi-zillig/
 
